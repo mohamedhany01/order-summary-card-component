@@ -26,13 +26,15 @@ Users should be able to:
 ### Screenshot
 
 - Desktop
+![Screenshot_2021-11-09 Order Summary Card](https://user-images.githubusercontent.com/61619208/140978332-27afb668-876c-4eed-80a5-d80baafef46e.png)
 
 - Mobile
+![Screenshot_2021-11-09 Order mobile Card](https://user-images.githubusercontent.com/61619208/140978369-2e25d432-a8d2-4f41-85b5-4a298fad2c11.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/order-summary-card-using-html-sass-bootstrap-5-and-webpack-5-Ut2By0fo5
+- Live Site URL: https://front-ordersummarycard.netlify.app/
 
 ## My process
 
